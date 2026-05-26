@@ -52,7 +52,7 @@ button, input, textarea { font: inherit; }
 .nav-links a:hover { color: var(--frd-gold); }
 .nav-actions { display: flex; align-items: center; gap: 18px; }
 .btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; border-radius: 4px; font-size: 14px; font-weight: 900; text-transform: uppercase; letter-spacing: .02em; transition: 180ms ease; }
-.btn-primary { background: var(--frd-navy); color: white; border: 1px solid var(--frd-navy); }
+.btn-primary { background: var(--frd-navy); color: white; border: 1px solid var(--frd-navy); padding: 14px 28px; }
 .btn-primary:hover { background: #0b2d74; }
 .btn-outline { border: 1px solid var(--frd-navy); padding: 14px 28px; }
 .btn-outline:hover { background: var(--frd-light); }
